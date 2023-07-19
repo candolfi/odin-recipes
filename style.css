@@ -17,6 +17,7 @@
     text-align: center;
     color:black;
     display: block;
+    margin-bottom: 15px;
 
 }
 
@@ -32,11 +33,11 @@ img {
     padding: 30px;
     margin-top: 20px;
     margin-left: 200px;
+    padding-bottom: 300px;
 
 }
 
 .contents {
     background-color:bisque;
-    border: 1px solid black;
     margin-top: 20px;
 }
